@@ -2,6 +2,9 @@
 
 This project is a Rust-based framework for converting surplus Helium miners/hotspots into Hydrogen Plumbing LoRa gateways.
 
+![image](https://github.com/HydrogenPlumbing/nuclear-spallation/assets/43052/69d173b2-2068-4b09-9649-256a7d43f23d)
+
+
 Supported hardare:
 - RAK V2 (under development)
 - SenseCAP M1 (planned)
