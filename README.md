@@ -23,7 +23,7 @@ Supported hardare:
 
 *Active RAK2287 pins:* SPI pins 45,47,49,51: wired to Pi SPI0 (GPIO pins 8,9,10,11)
 
-*SX1302 Reset:* SX reset pin 22 bonded to GPIO pin 13 (MCU Reset), and wired throuhg RAK2004 to Pi GPIO pin 25
+*SX1302 Reset:* SX reset pin 22 bonded to RAK pin 13 (MCU Reset), and wired throuhg RAK2004 to Pi GPIO pin 25
 
 ![Alt text](docs/image/rak2287_pinout.png)
 
