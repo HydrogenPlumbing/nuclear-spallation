@@ -2,7 +2,7 @@
 
 This project is a Rust-based framework for converting surplus Helium miners/hotspots into Hydrogen Plumbing LoRa gateways.
 
-Many of the popular Helium hotspots combine off the shelf LoRa modems connected to a Raspberry Pi via SPI. This project maps the wiriing on the various interface cards, and provides a library for interacting with the LoRa modem via the Pi SPI port.
+Many of the popular Helium hotspots use off-the-shelf LoRa modems connected to a Raspberry Pi via SPI. This project maps the wiriing on the various interface cards, and provides a library for interacting with the LoRa modem via the Pi SPI port.
 
 
 ![image](https://github.com/HydrogenPlumbing/nuclear-spallation/assets/43052/69d173b2-2068-4b09-9649-256a7d43f23d)
