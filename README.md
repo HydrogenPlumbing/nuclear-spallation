@@ -10,7 +10,7 @@ Many of the popular Helium hotspots use off-the-shelf LoRa modems connected to a
 
 Supported hardare:
 - RAK V2 (under development)
-- SenseCAP M1 (planned)
+- SenseCAP M1 (Under development)
 - Bobcat 300 (under investigation)
 
 ### Notes for RAK V2 Hardware
